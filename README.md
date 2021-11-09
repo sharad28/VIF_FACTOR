@@ -3,7 +3,7 @@
     VIF : Variance Inflation Factor
     Generally, VIF more than 5 is indicative of high
     multi-collinearity. VIF=5 is equivalent to R-squared = 0.8.
-    It will provide VIF score between passed variables
+    This package will provide VIF score between passed variables
 
     Input: Take variable in form of DataFrame
     Output: Print VIF factor
