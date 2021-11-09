@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: VIF-pkg-sharad28
+Version: 0.0.1
+Summary: Calculate variance inflation factor
+Home-page: https://github.com/sharad28/VIF_FACTOR
+Author: Sarad Mishra
+Author-email: saradmishra28@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/sharad28/VIF_FACTOR/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 
 
 #    VIF : Variance Inflation Factor
@@ -20,10 +37,7 @@ $$ V.I.F. = 1 / (1 - R^2). $$
 
 The Variance Inflation Factor (VIF) is a measure of colinearity among predictor variables within a multiple regression. It is calculated by taking the the ratio of the variance of all a given model's betas divide by the variane of a single beta if it were fit alone.
 
-#example
-    from VIF_PACKAGE.VIF import vif
-    vif(Dataframe)
-
 
 reference:
 https://etav.github.io/python/vif_factor_python.html
+

@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/VIF_PACKAGE/VIF.py
+src/VIF_PACKAGE/__init__.py
+src/VIF_pkg_sharad28.egg-info/PKG-INFO
+src/VIF_pkg_sharad28.egg-info/SOURCES.txt
+src/VIF_pkg_sharad28.egg-info/dependency_links.txt
+src/VIF_pkg_sharad28.egg-info/top_level.txt
