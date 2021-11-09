@@ -20,7 +20,7 @@ $$ V.I.F. = 1 / (1 - R^2). $$
 
 The Variance Inflation Factor (VIF) is a measure of colinearity among predictor variables within a multiple regression. It is calculated by taking the the ratio of the variance of all a given model's betas divide by the variane of a single beta if it were fit alone.
 
-#example
+    example
     from VIF_PACKAGE.VIF import vif
     vif(Dataframe)
 
